@@ -7,7 +7,9 @@
 https://github.com/KimMeen/Time-LLM
 
 **논문 리뷰:**  
-https://hipposdata.tistory.com/134
+https://hipposdata.tistory.com/134  
+[Time-LLM 논문리뷰_하정민.pdf](https://github.com/user-attachments/files/21545178/Time-LLM._.pdf)
+
 
 ## 공식 Time-LLM과 프로젝트 코드의 주요 차이점
 
